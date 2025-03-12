@@ -42,3 +42,4 @@ function bringTogether(sayings) {
   console.log('branch third third thord')
   //what
   //how does this merge
+  //ok last up and see onlt try it out?
