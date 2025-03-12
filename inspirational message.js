@@ -40,3 +40,4 @@ function bringTogether(sayings) {
   bringTogether(personalMessage);
   console.log('second branch add')
   console.log('branch third third thord')
+  what
