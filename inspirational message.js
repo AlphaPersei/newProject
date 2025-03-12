@@ -38,3 +38,4 @@ function bringTogether(sayings) {
   }
   
   bringTogether(personalMessage);
+  console.log('second branch add')
